@@ -1,0 +1,15 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(20, 1fr);
+	grid-template-rows: repeat(10, 1fr);
+	.cell-container {
+		width: 100%;
+		&:before {
+			content: "";
+			display: inline-block;
+			width: 0px;
+			height: 0;
+			padding-bottom: 100%;
+		}
+	}
+}
