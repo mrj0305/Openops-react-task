@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Openops-react-task/static/css/main.25591fd7.chunk.css",
+    "main.js": "/Openops-react-task/static/js/main.43a54303.chunk.js",
+    "main.js.map": "/Openops-react-task/static/js/main.43a54303.chunk.js.map",
+    "runtime-main.js": "/Openops-react-task/static/js/runtime-main.fe093c55.js",
+    "runtime-main.js.map": "/Openops-react-task/static/js/runtime-main.fe093c55.js.map",
+    "static/js/2.ef4b62e2.chunk.js": "/Openops-react-task/static/js/2.ef4b62e2.chunk.js",
+    "static/js/2.ef4b62e2.chunk.js.map": "/Openops-react-task/static/js/2.ef4b62e2.chunk.js.map",
+    "index.html": "/Openops-react-task/index.html",
+    "static/css/main.25591fd7.chunk.css.map": "/Openops-react-task/static/css/main.25591fd7.chunk.css.map",
+    "static/js/2.ef4b62e2.chunk.js.LICENSE.txt": "/Openops-react-task/static/js/2.ef4b62e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe093c55.js",
+    "static/js/2.ef4b62e2.chunk.js",
+    "static/css/main.25591fd7.chunk.css",
+    "static/js/main.43a54303.chunk.js"
+  ]
+}
